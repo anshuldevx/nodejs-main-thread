@@ -19,3 +19,10 @@ app.listen(PORT, () => {
   console.log(`�� Server is running on http://localhost:${PORT}`);
 });
 
+// Cpu intensive operations examples
+// Heavy Loops / Large Iterations
+// Large Prime Number Calculation
+// Recursive Calculations (e.g. Fibonacci)
+// Hashing / Encryption (especially synchronous)
+// Image Processing / Video Encoding
+// JSON parsing large payloads
